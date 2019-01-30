@@ -1,0 +1,16 @@
+[06-Mar-2018 00:26:54 America/Denver] PHP Notice:  Undefined variable: run1 in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 00:26:54 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 00:27:27 America/Denver] PHP Notice:  Undefined variable: run1 in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 00:27:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 00:29:40 America/Denver] PHP Notice:  Undefined variable: run1 in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 00:29:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 03:35:48 America/Denver] PHP Notice:  Undefined variable: run1 in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 03:35:48 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 31
+[06-Mar-2018 03:51:30 America/Denver] PHP Notice:  Undefined variable: run2 in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 03:51:30 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 05:48:09 America/Denver] PHP Notice:  Undefined variable: run2 in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 05:48:09 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 05:48:18 America/Denver] PHP Notice:  Undefined variable: run2 in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 05:48:18 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 08:28:05 America/Denver] PHP Notice:  Undefined variable: run2 in /home1/dbcegoac/public_html/procyon/login.php on line 38
+[06-Mar-2018 08:28:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/dbcegoac/public_html/procyon/login.php on line 38
